@@ -1,1 +1,1 @@
-# Message-Generator
+# Inspiring Phrase-Generator
