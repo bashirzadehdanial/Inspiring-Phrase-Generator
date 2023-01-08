@@ -2,8 +2,10 @@ let phraseContainer = [`“You've got to get up every morning with determination
 
 
 function phraseGenerator(phrasesList){
+    let container;
     let randomNum = Math.ceil(((Math.random())*10))
-    console.log(phraseContainer[randomNum]);
+    container = phraseContainer[randomNum]
+    return container
 }
 
 
