@@ -1,1 +1,1 @@
-# Inspiring Phrase-Generator
+# Inspiring-Phrase-Generator
